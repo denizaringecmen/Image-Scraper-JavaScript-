@@ -5,7 +5,8 @@
  * You are free to modify and distribute this code as long as the copyright notice remains intact.
  * 
  * Author: Deniz Arın Geçmen
- * 
+ * Email: denizaringecmen@gmail.com
+ *
  */
 
 const { Builder, By, Key, until } = require('selenium-webdriver');
