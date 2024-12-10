@@ -85,8 +85,8 @@ async function downloadImage(url, folderPath, index) {
         await driver.wait(until.elementLocated(By.css('.ContentImage-Image')), 10000);
 
         // Step 6: Scroll the page to load more images (lazy loading)
-        for (let i = 0; i < 5; i++) {
-            await driver.executeScript('window.scrollBy(0, 1000)');
+        for (let i = 0; i < 25; i++) {
+            await driver.executeScript('window.scrollBy(0, 400)');
             await driver.sleep(1000); // Pause to allow images to load
         }
 
