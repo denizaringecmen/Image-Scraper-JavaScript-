@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Deniz Arın Geçmen [10/12/2024]
+ * Copyright (c) [Deniz Arın Geçmen] [10/12/2024]
  * 
  * This script is intended for scraping images based on user-defined parameters.
  * You are free to modify and distribute this code as long as the copyright notice remains intact.
