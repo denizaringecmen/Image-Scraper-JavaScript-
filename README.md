@@ -5,7 +5,4 @@ This is going to create a prompt which will ask for user input in the terminal w
 
 Dependincies for Image-Scraper;
 
-npm install selenium-webdriver
-npm install chromedriver 
-npm install axios
-npm install image-size
+npm i selenium-webdriver chromedriver axios image-size
